@@ -1,0 +1,25 @@
+WU-Minn HCP Consortium Open Access Data Use Terms
+Version 2013-Apr-26
+Full text: https://www.humanconnectome.org/study/hcp-young-adult/document/wu-minn-hcp-consortium-open-access-data-use-terms
+
+These terms govern the fs_LR standard surfaces, sulcal-depth maps, medial-wall masks, registration
+spheres, and the Glasser HCP-MMP1.0 parcellation redistributed by cortical_maps (derived from
+HCP / Van Essen group data — the fs_LR 32k Glasser file is a conversion of the official HCP dlabel,
+NOT the fsaverage CC-BY figshare mirror, so the HCP Data Use Terms apply).
+
+Key clauses (verbatim):
+
+  4. I may redistribute original WU-Minn HCP Open Access data and any derived data as long as
+     the data are redistributed under these same Data Use Terms.
+
+  5. I will acknowledge the use of WU-Minn HCP data and data derived from WU-Minn HCP data when
+     publicly presenting any results or algorithms that benefitted from their use.
+     a. ... "Data were provided [in part] by the Human Connectome Project, WU-Minn Consortium
+        (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the
+        16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research;
+        and by the McDonnell Center for Systems Neuroscience at Washington University."
+
+Redistribution is therefore PERMITTED provided these same terms travel with the data and the
+acknowledgment above is included in any publication. Please also cite:
+  Van Essen et al. 2012, Cerebral Cortex (10.1093/cercor/bhr291)
+  Glasser et al. 2013, NeuroImage (10.1016/j.neuroimage.2013.04.127)
