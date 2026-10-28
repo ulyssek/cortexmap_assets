@@ -1,12 +1,12 @@
-# cortical_maps_assets
+# cortexmap_assets
 
-Brain-surface assets fetched on demand by the [`cortical_maps`](https://github.com/ulyssek/brain_statmaps)
+Brain-surface assets fetched on demand by the [`cortexmap`](https://github.com/ulyssek/cortexmap)
 Python package — meshes, sulcal-depth maps, medial-wall masks, registration spheres and cortical
 parcellations, on the standard human surfaces (fs_LR 32k/164k, fsaverage/6/5).
 
-You do not need to clone this repo. `cortical_maps` downloads individual files from it, on first use,
-into a local cache (`~/.cortical_maps/brain_data` by default). It is published here only so that a
-plain `pip install cortical_maps` works with no manual data setup.
+You do not need to clone this repo. `cortexmap` downloads individual files from it, on first use,
+into a local cache (`~/.cortexmap/brain_data` by default). It is published here only so that a
+plain `pip install cortexmap` works with no manual data setup.
 
 ## Licences — read before reuse
 
